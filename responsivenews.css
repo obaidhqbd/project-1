@@ -49,30 +49,5 @@
     .news_main:nth-child(7) {
         max-width: 100%;
     }
-        .footer {
-            height: 100%;
-            width: 100%;
-            display: flex;
-            align-items: center;
-            vertical-align: center;
-        flex-direction: row;
-        text-align: center;
-        }
-
-    .fd {
-        max-width: 100%;
-        padding: 10px;
-        display: block;
-        margin: 0 auto;
-        align-items: center;
-        justify-content: center;
         
-    }
-    .fd img{
-        width: 100%;
-        height: auto;
-    }
-        .fd a {
-            display: none;
-        }
 }
